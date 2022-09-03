@@ -6,7 +6,19 @@
   <hr>
   <h3>Panduan menginstall Python📥</h3>
   Cara menginstal python sangat mudah, ikuti panduan dibawah ini. Dibawah adalah panduan cara instal python di platform <a href="#">Linux,<a href="#">Windows</a> dan <a href="#">Mac OS</a>.
-  <h3>Linux🐧</h3>
+<h3>Android</h3>
+  <p> Install Termux ( Terminal Linux Emulator)
+  <p> ketik  `` apt-get update ``
+  <p> ketik  `` apt-get upgrade ``
+  <p> ketik  `` apt-get install python3 `` lalu <kbd>enter</kbd>
+  <p> ketik  `` apt-get install nano ``
+  
+
+
+
+
+
+<h3>Linux🐧</h3>
  <p>1. Buka browser, kunjungi http://www.python.org/downloads/source/ </p>
  <p>2. Download versi terbaru Python berbentuk file zip untuk Unix/Linux</p>
  <p>3. Ekstrak file zip yang baru saja di download</p>
